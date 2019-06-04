@@ -1,2 +1,2 @@
 # cut&play
-Small audio tool for audio manipulation
+Simple audio tool for audio manipulation
