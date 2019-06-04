@@ -1,2 +1,2 @@
-# mp3-cut-play
-Small audio tool for mp3 manipulation
+# cut-play
+Small audio tool for audio manipulation
